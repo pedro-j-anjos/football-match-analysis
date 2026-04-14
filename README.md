@@ -1,6 +1,6 @@
 # Portugal vs Ghana – Match Analysis (World Cup 2022)
 
-This project analyzes the World Cup 2022 match between Portugal and Ghana using StatsBomb data.
+This project analyzes the World Cup 2022 match between Portugal and Ghana using StatsBomb open data, focusing on attacking performance and threat creation.
 
 ## Key analysis
 - Shot quality (xG)
@@ -14,5 +14,5 @@ This project analyzes the World Cup 2022 match between Portugal and Ghana using 
 
 ## Tools
 - Python (pandas, numpy)
+- Matplotlib
 - mplsoccer
-- matplotlib
