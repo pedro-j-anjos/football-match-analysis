@@ -1,4 +1,4 @@
-# football-match-analysis
+# Portugal vs Ghana – Match Analysis (World Cup 2022)
 
 This project analyzes the World Cup 2022 match between Portugal and Ghana using StatsBomb data.
 
